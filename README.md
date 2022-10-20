@@ -1,7 +1,7 @@
 # Childlessness and Socio-economic (Dis)advantage in the UK
-This repository contains the code used to generate the results published in (the following publication)[] 
+This repository contains the code used to generate the results published in (the following publication)[https://rss.onlinelibrary.wiley.com/doi/10.1111/rssa.12917] 
 
-**XXXX**
+Verkroost, F.C.J. (2022) A Bayesian multivariate hierarchical growth curve model to examine cumulative socio-economic (dis)advantage among childless adults and parents. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 1– 43. Available from: (https://doi.org/10.1111/rssa.12917)[https://doi.org/10.1111/rssa.12917].
 
 Please cite this paper whenever referring to (parts of) this code.
 
